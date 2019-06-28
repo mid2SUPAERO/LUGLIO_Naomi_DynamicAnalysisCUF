@@ -1,4 +1,6 @@
 The tutorials could take some time to be solved. 
 That's for this reason that I advise you to validate my codes with the case of a sigle full beam.
 For the rest of cases I simply adapted the code to the new cross-section geometry: you could note the results directly from the presantation or the paper.
-
+Moreover, the integrals inside the codes could be solved both by Gauss-Legendre Integration or by the integ pack of Python.
+In order to show you both methods, I used the Python integ methods for Taylor expansions and the Gauss-Legendre integration for Lagrange expansion.
+Consequently, codes implementing Taylor will be less fast than codes with Gauss-Legendre integration.
